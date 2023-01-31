@@ -1,5 +1,5 @@
 # BellGuard_Insert_Accelerometer
-A Bellguard Insert for an epee that can measure acceleration and transmit wirelessly to a receiver. The general layout can be seen in the schematic [Schematic_Epee Bellguard Insert and Speaker_2023-01-29.pdf](https://github.com/BenKohn2004/BellGuard_Insert_Accelerometer/blob/main/Schematic_Epee%20Bellguard%20Insert%20and%20Speaker_2023-01-29.pdf)
+A Bellguard Insert for an epee that can measure acceleration and transmit wirelessly to a receiver. The general layout can be seen in the schematic [Schematic Epee Bellguard Insert and Speaker.pdf](https://github.com/BenKohn2004/BellGuard_Insert_Accelerometer/blob/main/Schematic%20Epee%20Bellguard%20Insert%20and%20Speaker.pdf)
 
 The Bellguard Insert is modeled using [OnShape](https://cad.onshape.com/documents/51ca8c06bc5b5404b12fe69e/w/3a4a6ec2c7af2a419aeb4d50/e/05886a4a9ec08934e00e5f42?renderMode=0&uiState=63d94f4438040d08cedf6ea3), an examlpe can be found [3D Model of the Insert.png](https://raw.githubusercontent.com/BenKohn2004/BellGuard_Insert_Accelerometer/main/3D%20Model%20of%20the%20Insert.png)
 
